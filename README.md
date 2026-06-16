@@ -16,6 +16,10 @@ So far, I have learned:
 * Printing output to the screen (`Hello, World!`)
 * Python data types
 * Basic Python arithmetic operations
+* Python If-Else
+* Loops
+* Functions
+* The Print Function
 
 ## Repository Purpose
 
