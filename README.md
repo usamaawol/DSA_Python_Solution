@@ -19,7 +19,7 @@ So far, I have learned:
 * Python If-Else
 * Loops
 * Functions
-* The Print Function
+* Lists
 
 ## Repository Purpose
 
