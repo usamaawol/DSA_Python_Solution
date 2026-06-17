@@ -4,13 +4,13 @@ if __name__ == '__main__':
     for i in range(N):
         command = input().split()
         if command[0] == "insert":
-            lst.insert(int(row[1]), int(row[2]))
+            lst.insert(int(command[1]), int(row[2]))
         elif command[0] == "print":
             print(lst)
-        elif command0] == "remove":
-            lst.remove(int(row[1]))
+        elif command[0] == "remove":
+            lst.remove(int(command[1]))
         elif command[0] == "append":
-            lst.append(int(row[1]))
+            lst.append(int(command[1]))
         elif cpmmand[0] == "pop":
             lst.pop()
         elif command[0] == "reverse":
