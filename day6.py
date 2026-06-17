@@ -3,7 +3,7 @@ if __name__ == '__main__':
     lst = []
     for i in range(N):
         command = input().split()
-        if row[0] == "insert":
+        if command[0] == "insert":
             lst.insert(int(row[1]), int(row[2]))
         elif command[0] == "print":
             print(lst)
