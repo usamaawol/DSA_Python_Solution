@@ -20,6 +20,7 @@ So far, I have learned:
 * Loops
 * Functions
 * Lists
+* strings
 
 ## Repository Purpose
 
