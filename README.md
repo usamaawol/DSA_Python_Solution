@@ -21,6 +21,7 @@ So far, I have learned:
 * Functions
 * Lists
 * strings
+* set
 
 ## Repository Purpose
 
