@@ -22,6 +22,14 @@ So far, I have learned:
 * Lists
 * strings
 * set
+* tuple(**Day 10 – Python Tuples**
+Today's topic was tuples. The coding part was simple, but the real challenge came from debugging.
+I learned that:
+A `map` object is not a tuple—you need to convert it using `tuple()`.
+ Small typos like writing `tupe()` instead of `tuple()` can waste a lot of time.
+  ometimes the code is correct, but differences between Python versions or the online judge can still cause unexpected results.
+
+Today's lesson reminded me that programming isn't just about writing code—it's about understanding errors and learning how to debug them)
 
 ## Repository Purpose
 
